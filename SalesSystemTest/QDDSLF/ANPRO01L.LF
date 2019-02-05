@@ -1,0 +1,7 @@
+000100000000     A                                      UNIQUE
+000200190115     A          R ANPRO                     FORMAT(ANPRO)
+000300000000     A                                      PFILE(ANPRO00F)
+000400000000     A          K LNPRD     R
+000500000000     A          K MODAM     R
+000600000000     A          K TELAI     R
+000700000000     A          O ATP01                     COMP(NE ' ')
