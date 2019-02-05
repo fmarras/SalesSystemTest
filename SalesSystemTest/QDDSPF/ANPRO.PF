@@ -1,0 +1,73 @@
+000100020408     A                                      REF(SSCDIC)
+000200020408     A          R ANPRO                     TEXT('Vehicle master')
+000300020408     A            ATP01     R               REFFLD(ATTIV)
+000400020408     A            NRP01     R               REFFLD(NRAZI)
+000500020408     A            DAP01     R               REFFLD(DAMAN)
+000600020408     A            AGP01     R               REFFLD(AGMAN)
+000700020408     A            DIP01     R               REFFLD(DIREC)
+000800020408     A            LNPRD     R
+000900020408     A            MODAM     R
+001000000000     A            MODAR     R
+001100000000     A            MODOR     R
+001200000000     A            MODTC     R
+001300000000     A            MODTS     R
+001400000000     A            DTSTP     R
+001500000000     A            AAFAB     R
+001600000000     A            TELAI     R
+001700000000     A            STPRD     R
+001800000000     A            CDCOL     R
+001900000000     A            CDCLM     R
+002000000000     A            FGCLO     R
+002100000000     A            VINNO     R
+002200000000     A            ENGIN     R
+002300000000     A            IGKEY     R
+002400000000     A            TPCFP     R
+002500000000     A            DAOMO     R
+002600000000     A            NROMO     R
+002700000000     A            DACFM     R
+002800000000     A            NRCFM     R
+002900000000     A            NORSD     R
+003000000000     A            DORSD     R
+003100000000     A            DABOG     R
+003200000000     A            NRBOG     R
+003300000000     A            NRCAR     R
+003400000000     A            NRRCA     R
+003500000000     A            NRVEN     R
+003600000000     A            COLLO     R
+003700000000     A            CNTER     R
+003800000000     A            DTMER     R
+003900000000     A            ESINI     R
+004000000000     A            CDMAG     R
+004100000000     A            AACCT     R
+004200020408     A            FCLFO     R
+004300000000     A            TERZI     R
+004400000000     A            FLGCA     R
+004500000000     A            FLGCC     R
+004600000000     A            FLGRC     R
+004700000000     A            UBICP     R
+004800000000     A            DTIMM     R
+004900010723     A            GFSPE     R
+005000000000     A            STPDL     R
+005100000000     A            FLGAC     R
+005200000000     A            CLSTK     R
+005300000000     A            CDSUB     R
+005400000000     A            DOGAN     R
+005500000000     A            DTUFT     R
+005600000000     A            NRUFT     R
+005700000000     A            NTPRO     R
+005800960214     A            NRIGP     R
+005900980611     A            FLGRP     R
+006000980930     A            CDANT     R
+006100980930     A            NRSEQ     R
+006200020702     A            VHETD     R
+006300020701     A            CTRNO     R
+006400020905     A            TAPNO     R
+006500020905     A            VARIA     R
+006600020905     A            VERSI     R
+006700020905     A            DTCOC     R
+006800031216     A            RMPIN     R
+006900040316     A            MODVE     R
+007000070219     A            DTTAD     R
+007100120925     A            STSTS     R
+007200120925     A            VBNBR     R
+007300140304     A            CDFOW     R
